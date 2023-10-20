@@ -49,7 +49,6 @@ sections:
       text: hello
     design:
       columns: '2'
-      view: card
   - block: collection
     content:
       title: Recent Publications
