@@ -46,7 +46,7 @@ sections:
     id: News
     content:
       title: News
-      text: hello
+      text: [Jul. 2022]
     design:
       columns: '2'
   - block: collection
