@@ -56,7 +56,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:gm.mejia@uniandes.edu.co"
+    link: mailto:gm.mejia@uniandes.edu.co
   - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/g27182818
@@ -83,5 +83,5 @@ social:
 highlight_name: true
 ---
 
-I am a last year M.Sc. student in Biomedical Engineering at Universidad de los Andes advised by [Pablo Arbelaez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=en). As part of the Biomedical Computer Vision ([BCV](https://biomedicalcomputervision.uniandes.edu.co/)) group, I lead the transcriptomics line of research, developing deep learning and computer vision techniques to diagnose disease and predict gene expression from histology images. My research is funded by a Google DeepMind scholarship. [CV](uploads/resume.pdf)
+I am a last year M.Sc. student in Biomedical Engineering at Universidad de los Andes advised by [Pablo Arbelaez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=en). As part of the Biomedical Computer Vision ([BCV](https://biomedicalcomputervision.uniandes.edu.co/)) group, I lead the transcriptomics line of research, developing deep learning and computer vision techniques to diagnose disease and predict gene expression from histology images. My research is funded by a Google DeepMind scholarship. [[CV](uploads/resume.pdf)]
 {style="text-align: justify;"}
