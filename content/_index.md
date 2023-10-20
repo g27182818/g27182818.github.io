@@ -45,7 +45,7 @@ sections:
   - block: markdown
     id: News
     content:
-      title: News
+      title: hola hola News
       subtitle: A subtitle
       text: [Jul. 2022] One paper accepted to [CMMCA 2022](https://cmmca2022.casconf.cn/) ([MICCAI 2022](https://conferences.miccai.org/2022/en/) workshop) on bias correction and cancer classification on transcriptomics data.
     design:
