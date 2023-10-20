@@ -46,7 +46,7 @@ sections:
     id: News
     content:
       title: News
-      text: [Jul. 2022] One paper accepted to [CMMCA 2022]
+      text: Jul. 2022 One paper accepted to CMMCA 2022
     design:
       columns: '2'
   - block: collection
