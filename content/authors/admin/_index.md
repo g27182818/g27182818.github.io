@@ -29,11 +29,14 @@ bio: My research interests are at the intersection of omics data, drug discovery
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - icon: envelope
+    icon_pack: fas
+    Artificial Intelligence
   - Machine Learning
   - Omics Data
   - Drug Discovery
   - Automated Diagnosis
+  icon:
 
 # Education to show in About widget
 education:
