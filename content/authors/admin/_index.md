@@ -31,7 +31,7 @@ bio: My research interests are at the intersection of omics data, drug discovery
 interests:
   - icon: envelope
     icon_pack: fas
-    Artificial Intelligence
+    interest: Artificial Intelligence
   - Machine Learning
   - Omics Data
   - Drug Discovery
