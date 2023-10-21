@@ -60,9 +60,6 @@ social:
   - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/g27182818
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=yh69hnYAAAAJ&view_op=list_works&sortby=pubdate
