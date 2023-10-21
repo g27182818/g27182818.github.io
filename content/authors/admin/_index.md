@@ -34,7 +34,6 @@ interests:
   - Omics Data
   - Drug Discovery
   - Automated Diagnosis
-  icon:
 
 # Education to show in About widget
 education:
