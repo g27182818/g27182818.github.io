@@ -47,9 +47,9 @@ sections:
     content:
       title: News
       text: |-
-        * <strong>\[Oct. 2023\]</strong> Our gene expression prediction method SEPAL was awarded the best paper award in the [CVAMD 2023](https://cvamd2023.github.io/) workshop ([ICCV 2023](https://iccv2023.thecvf.com/))!! 🎉
+        * <strong>\[Oct. 2023\]</strong> Our gene expression prediction method SEPAL received the best paper award in the [CVAMD 2023](https://cvamd2023.github.io/) workshop ([ICCV 2023](https://iccv2023.thecvf.com/))!! 🎉
         * <strong>\[Aug. 2023\]</strong> Paper accepted to [CVAMD 2023](https://cvamd2023.github.io/) ([ICCV 2023](https://iccv2023.thecvf.com/) workshop) on gene expression prediction from histology images.
-        * <strong>\[Sep. 2022\]</strong> Our cancer detection method CanDLE was awarded the best paper award in the [CMMCA 2022](https://cmmca2022.casconf.cn/) workshop ([MICCAI 2022](https://conferences.miccai.org/2022/en/))!! 🎉
+        * <strong>\[Sep. 2022\]</strong> Our cancer detection method CanDLE received the best paper award in the [CMMCA 2022](https://cmmca2022.casconf.cn/) workshop ([MICCAI 2022](https://conferences.miccai.org/2022/en/))!! 🎉
         * <strong>\[Jul. 2022\]</strong> Paper accepted to [CMMCA 2022](https://cmmca2022.casconf.cn/) ([MICCAI 2022](https://conferences.miccai.org/2022/en/) workshop) on bias correction and cancer classification on transcriptomics data.
         * <strong>\[Jan. 2022\]</strong> Started my M.Sc. at UniAndes with Pablo Arbelaez!
     design:
