@@ -25,7 +25,7 @@ organizations:
     url: https://uniandes.edu.co/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are at the intersection of omics data, drug discovery, and AI/ML.
+bio: AI/ML, omics data, and drug discovery.
 
 # Interests to show in About widget
 interests:
