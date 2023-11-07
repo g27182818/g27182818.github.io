@@ -30,7 +30,7 @@ publication_short: In *MICCAI CMMCA Workshop*
 abstract: Automatic cancer diagnosis based on RNA-Seq profiles is at the intersection of transcriptome analysis and machine learning. Methods developed for this task could be a valuable support in clinical practice and provide insights into the cancer causal mechanisms. To correctly approach this problem, the largest existing resource (The Cancer Genome Atlas) must be complemented with healthy tissue samples from the Genotype-Tissue Expression project. In this work, we empirically prove that previous approaches to joining these databases suffer from translation biases and correct them using batch z-score normalization. Moreover, we propose CanDLE, a multinomial logistic regression model that achieves state of the art performance in multilabel cancer/healthy tissue type classification (94.1% balanced accuracy) and all-vs-one cancer type detection (78.0% average max F1).
 
 # Summary. An optional shortened abstract.
-summary: <strong> <font color="#6495ED" size="-1">MICCAI workshop on Computational Mathematics Modeling in Cancer Analysis</font> <font color="#FFA07A" size="-1">[Oral]</font></strong> <br />This study shows that previous joint transcriptomic resources have translation biases, in addition we correct the bias and propose a new method that achieves state-of-the-art performance.
+summary: <strong> <font color="#6495ED" size="+1">MICCAI workshop on Computational Mathematics Modeling in Cancer Analysis</font> <font color="#FFA07A" size="+1">[Oral]</font></strong> <br />This study shows that previous joint transcriptomic resources have translation biases, in addition we correct the bias and propose a new method that achieves state-of-the-art performance.
 
 tags: []
 

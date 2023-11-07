@@ -31,7 +31,7 @@ publication_short: In *CI-IB&BI*
 abstract: "Glioma is a type of tumor that develops in the brain and causes cancer in nervous system. They are normally associated with a bad prognosis due to its heterogeneity and the difficulty to resect them. Taking this into account, we developed an algorithm capable of segmenting the brain into four parts: background (brain without tumor), necrotic core (NRC), edematous region (ED) and Active and non-enhancing/necrotic tumor regions (AT). First we approached the problem as a binary case (tumor/non-tumor segmentation) and then we used these masks to improve our multi-class case. For descriptors of each pixel, we used the intensities associated to the four different MRIs contrast media and the prior probability distribution of the training set (two for binary and four for multi-class), and we trained a Random Forest classifier with them. Taking into account the limitation of the computational resources with which we work, our results are outstanding (Dice coefficient 0.806 in the binary case) and competitive with state of the art methods."
 
 # Summary. An optional shortened abstract.
-summary: <strong> <font color="#6495ED" size="-1">International Congress of Biomedical Engineering and Bioengineering</font> <font color="#FFA07A" size="-1">[Oral]</font></strong> <br />Random forests for 3D semantic segmentation of brain tumors in multi-parametric MRIs.
+summary: <strong> <font color="#6495ED" size="+1">International Congress of Biomedical Engineering and Bioengineering</font> <font color="#FFA07A" size="+1">[Oral]</font></strong> <br />Random forests for 3D semantic segmentation of brain tumors in multi-parametric MRIs.
 
 tags: []
 
