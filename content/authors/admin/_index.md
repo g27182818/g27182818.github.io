@@ -80,7 +80,7 @@ social:
 highlight_name: true
 ---
 
-I am a last year M.Sc. student in Biomedical Engineering at Universidad de los Andes advised by [Pablo Arbelaez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=en). As part of the Biomedical Computer Vision ([BCV](https://biomedicalcomputervision.uniandes.edu.co/)) group, I lead the transcriptomics line of research, developing deep learning and computer vision techniques to diagnose disease and predict gene expression from histology images. My research is funded by a Google DeepMind scholarship. [[CV](uploads/resume.pdf)]
+M.Sc. in Biomedical Engineering at Universidad de los Andes advised by [Pablo Arbelaez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=en). As part of the Biomedical Computer Vision ([BCV](https://biomedicalcomputervision.uniandes.edu.co/)) group, I led the transcriptomics line of research, developing deep learning and computer vision techniques to diagnose disease and predict gene expression from histology images. During this stage, my research was funded by a Google DeepMind scholarship. [[CV](uploads/resume.pdf)]
 
 My interests are at the intersection of AI/ML, omics data, and drug discovery. I am particularly excited about applications such as inverse protein folding, small molecule design, digital twins, early diagnosis techniques, and the recognition of therapeutic targets in cancer/aging. I consider myself oriented to problem solving and I highly value the translation of theoretical studies to real-world clinical practice.
 
